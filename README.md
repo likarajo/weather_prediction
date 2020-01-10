@@ -83,6 +83,9 @@ Sample Response:
 * Datetime
 * Requests
 * Pandas
+* Matplotlib
+* Numpy
+* Scikit-learn
 
 `pip install -r requirements.txt`
 
